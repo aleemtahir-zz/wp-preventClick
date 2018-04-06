@@ -1,0 +1,15 @@
+.prevent_click{
+			pointer-events: none;
+		}
+
+.ad_style{
+	opacity: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 200;
+}
+.disappear_me{
+	display: none;
+	cursor: default;
+}
